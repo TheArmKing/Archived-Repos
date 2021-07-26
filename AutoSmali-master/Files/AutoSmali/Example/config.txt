@@ -1,0 +1,5 @@
+OnCreateFile:smalitext.txt
+FolderName:SFolder
+FolderPath:smali/com/
+FileName:samplefile.png
+FilePath:assets/
